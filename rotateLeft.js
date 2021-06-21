@@ -14,4 +14,4 @@ const rotateLeft = (n, d, arr)=>{
     console.log(arr);
     return arr;
 }
-rotateLeft(5, 4, [1,2,3,4,5]);
+// rotateLeft(5, 4, [1,2,3,4,5]);
